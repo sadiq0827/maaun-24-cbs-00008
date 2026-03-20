@@ -64,6 +64,6 @@ if percentage >= 80:
 elif percentage >= 60:
     print("Good job! Keep it up 💪")
 elif percentage >= 40:
-    print("Fair attempt.... read small small again")
+    print("Fair attempt..... read small small again")
 else:
     print("No wahala, next time you'll do better Insha Allah 🙏")
