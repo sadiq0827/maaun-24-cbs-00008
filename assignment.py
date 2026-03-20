@@ -50,7 +50,7 @@ for q in questions:
         print("Sorry, that's wrong 😕")
         print("The correct answer was: " + correct_letter + ") " + q["correct_answer"])
     
-    print("-------------------------------------\n")
+    print("------------------------------------\n")
 
 # Final result
 percentage = (score / total) * 100
